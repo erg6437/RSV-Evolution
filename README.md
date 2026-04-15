@@ -1,7 +1,8 @@
 ![image](https://github.com/erg6437/RSV-Molecular-Epidemiology/assets/53444914/3caa2023-d542-433b-b4b3-f8ea2d4be1b3)
 
 
-# Altered RSV Epidemiology and Genetic Diversity Following the COVID-19 Pandemic
+# Functional Characterization of RSV Clades associated with Prophylactic Breakthrough Infections in Pediatric Transmission Clusters<img width="468" height="59" alt="image" src="https://github.com/user-attachments/assets/39bb71ea-78b8-4901-aeab-5a4cb44530bc" />
+
 Estefany Rios-Guzman, Lacy M. Simons, Taylor J. Dean, Francesca Agnes, Anna Pawlowski, Arghavan Alisoltani, Hannah H. Nam, Michael G. Ison, Egon A. Ozer, Ramon Lorenzo-Redondo, & Judd F. Hultquist
 # Table of Contents 
 * [Introduction](#Introduction)
