@@ -3,7 +3,8 @@
 
 # Functional Characterization of RSV Clades associated with Prophylactic Breakthrough Infections in Pediatric Transmission Clusters
 
-Estefany Rios-Guzman, Lacy M. Simons, Taylor J. Dean, Francesca Agnes, Anna Pawlowski, Arghavan Alisoltani, Hannah H. Nam, Michael G. Ison, Egon A. Ozer, Ramon Lorenzo-Redondo, & Judd F. Hultquist
+Estefany Rios-Guzman, Ria Almohtadi, Seth H. Borrowman, Tien Doan, Charles R. Boyle, Dulce Garcia, Margarita Rzhetskaya, Lacy M. Simons, Jacob Class, Alexa Mendoza, Molly Schnieders, Anna Pawlowski, Sameer J. Patel, Ramon Lorenzo-Redondo, & Judd F. Hultquist
+
 # Table of Contents 
 * [Introduction](#Introduction)
 * [Significance and Findings](#Significance-and-Findings)
