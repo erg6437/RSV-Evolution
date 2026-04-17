@@ -51,25 +51,40 @@ Through a dual-center retrospective cohort study, we characterized RSV viral pop
 * scipy (v.1.5.2)
 * lifelines (v.0.27.7)
 
-### R Dependecies 
-* tabplot
-* readxl (v.1.4.3)
-* dplyr (v.1.1.2)
-* lubridate (v.1.9.2)
-* ggplot2 (v.3.4.3)
-* tidyr (v.1.3.0)
-* ggsci (v.3.0.0)
-* ggpubr (v.0.6.0)
-* FastaUtils
-* ape (v.5.7-1)
-* TreeTools (v.1.10.0)
-* phylotools (v.1.9-16)
-* gtsummary (v.1.7.2)
-* MASS (v.7.3-58.2)
-* car (v.3.1-2)
-* gt (v.0.9.0)
-* OddsPlotty (v.1.0.2)
-* effectsize (v.0.8.5)
+### R Dependencies ( R (version 4.4.1) )
+* RColorBrewer_1.1-3 
+* scales_1.4.0       
+* ggtreeExtra_1.14.0 
+* ggtree_3.12.0      
+* treeio_1.28.0      
+* forcats_1.0.1     
+* stringr_1.5.1      
+* purrr_1.2.1        
+* readr_2.2.0        
+* tibble_3.2.1       
+* tidyverse_2.0.0    
+* effects_4.2-5     
+* OddsPlotty_1.0.2   
+* gt_1.3.0           
+* car_3.1-3          
+* carData_3.0-5      
+* MASS_7.3-61        
+* gtsummary_2.5.0   
+* TreeTools_2.1.0    
+* ape_5.8            
+* ggpubr_0.6.0       
+* ggsci_3.2.0        
+* tidyr_1.3.1        
+* ggplot2_4.0.2     
+* lubridate_1.9.4    
+* dplyr_1.2.0        
+* readxl_1.4.5       
+* performance_0.16.0
+
+
+### Other Software Used in this Study
+* GraphPad Prism (version 11.0.0 (93))
+
 
 # Epidemiological Data Sets #
 ### Figure 1A
