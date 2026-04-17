@@ -17,8 +17,9 @@ Estefany Rios-Guzman, Ria Almohtadi, Seth H. Borrowman, Tien Doan, Charles R. Bo
 # Introduction #
 This repository was created to share the metadata and accompanying .R and .ipynb scripts that were used to created main and supplementary figures in Rios-Guzman & Almohtadi 2026 (submitted). The following types of information are provided in this GitHub:
 
-1. List of NCBI Accession Numbers and fasta files used for phylogenetic and temporal phylodynamic analysis
+1. Trees and fasta files used for phylogenetic and temporal phylodynamic analysis
 2. Code (.ipynb & .R) used for the analysis and visualization of the figures
+3. Figure images
 
 Note: Clinical metadata and demographic information used for analysis and generated figures are not provided as per IRB constraints
 
