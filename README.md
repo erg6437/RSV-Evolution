@@ -15,6 +15,7 @@ Estefany Rios-Guzman, Ria Almohtadi, Seth H. Borrowman, Tien Doan, Charles R. Bo
 * [Phylogenetic Analysis](#Phylogenetic-Analysis)
 
 # Introduction #
+This repository was created to share the metadata and accompanying .R and .ipynb scripts that were used to created main and supplementary figures in Rios-Guzman & Almohtadi 2026 (submitted). The following types of information are provided in this GitHub:
 This repository was curated to store scripts needed to generate both main and supplementary figures in Rios-Guzman et. al. 2023 (unpublished). The following data* are provided:
 
 1. Citywide and National epidemiological data (case counts, detections, percent positivity, etc.) are provided in the Data folder.
