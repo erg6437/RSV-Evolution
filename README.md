@@ -16,29 +16,29 @@ Estefany Rios-Guzman, Ria Almohtadi, Seth H. Borrowman, Tien Doan, Charles R. Bo
 
 # Introduction #
 This repository was created to share the metadata and accompanying .R and .ipynb scripts that were used to created main and supplementary figures in Rios-Guzman & Almohtadi 2026 (submitted). The following types of information are provided in this GitHub:
-This repository was curated to store scripts needed to generate both main and supplementary figures in Rios-Guzman et. al. 2023 (unpublished). The following data* are provided:
 
-1. Citywide and National epidemiological data (case counts, detections, percent positivity, etc.) are provided in the Data folder.
-    
-2. NCBI Accession IDs for sequences used for phylogenetic and phylodynamic analysis
+1. List of NCBI Accession Numbers and fasta files used for phylogenetic and temporal phylodynamic analysis
+2. Code (.ipynb & .R) used for the analysis and visualization of the figures
 
-3. Output files for HyPhy Mixed Effects Model of Evolution (MEME) and A Fast, Unconstrained Bayesian AppRoximation for Inferring Selection (FUBAR)
-   
-4. Codes (.ipynb & .r) used for the analysis of the aforementioned data sets
-   
 Note: Clinical metadata and demographic information used for analysis and generated figures are not provided as per IRB constraints
 
 # Significance and Findings #
 
-* Shifts in diagnostic testing to rapid test use and to capture SARS-CoV-2 infection after 2020 contributed to increased outpatient encounters
-  
-* Genomic surveillance and paired clinical data reveal a statistically significant association between RSV-A infections and ICU admission
-  
-* We identified a predominant monophyletic RSV-B cluster post-implementation of COVID-19-related nonpharmaceutical interventions (NPIs) which contains mutations with the potential to confer resistance to monoclonal antibody therapeutic Nirsevimab
+* Breakthrough infections in our retrospective cohort study were associated with only a few select clades.
+
+* Paired genotyping and clinical metadata revealed a trend towards increased hospitalization in infants with nirsevimab administration who had an RSV infection in their second RSV season.
+
+* Temporal phylodynamics revealed potential viral kinetic differences among transmission clusters comprised of the predominant RSV-A clades in the 2024-2025 RSV season.
+
+* Transmission clusters, as defined by more than 15 sequences with stringent genetic distance cutoffs, were only apparent in our pediatric cohort.
+
+* Most clades circulating in the 2024-2025 RSV season had minimal variation in cell entry function and monoclonal antibody susceptibility.
 
 # Study Design
 
-Through a single center retrospective cohort study, we examined the RSV genetic diversity over a 14-year period in Chicago, Illinois, USA. Between 2009 to 2023, clinical metadata of 8,516 patient encounters were captured through Northwestern Medicine's Electronic Data Warehouse (EDW) repository. From 2017 to December 30th 2022, 551 residual diagnostic swabs were collected from RSV-positive patients, of which 220 were successfully utilized for RSV whole-genome sequencing.
+
+Through a dual-center retrospective cohort study, we characterized RSV viral population dynamics over 2 years (2023-2025) in Chicago, Illinois, USA. We conducted this study among adult and pediatric patients who tested positive for RSV via PCR diagnostic tests at Northwestern Medicine (NM) hospital systems and Lurie Children's Hospital (LCH). From the NM system, we collected 209 RSV-positive residual nasopharyngeal swab diagnostic specimens from June 2023 through February 2025. From LCH, we collected 1,235 RSV-positive residual diagnostic specimens from November 2024 to April 2025, from which we sub-sampled 591 specimens by age, sex, and epidemiological week for sample processing and sequencing. Overall, we generated 420 RSV whole-genome sequences which were used for subsequent analysis. 
+
 
 # Dependencies
 ### Python Dependencies
