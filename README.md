@@ -86,49 +86,6 @@ Through a dual-center retrospective cohort study, we characterized RSV viral pop
 * GraphPad Prism (version 11.0.0 (93))
 
 
-# Epidemiological Data Sets #
-### Figure 1A
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Epidemiology-Data/Fig-1-NREVSS-2010-2020.csv"> CDC (NREVSS) National RSV Epidemiology Dataset [July 2010 - June 2020] </a> 
-
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Epidemiology-Data/Fig-1-NREVSS-062020-062021-test-det-pp.zip"> CDC (NREVSS) National RSV Epidemiology Dataset [June 2020 - June 2021] </a> 
-
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Epidemiology-Data/Fig-1-NREVSS-062021-present-test-det-pp.zip"> CDC (NREVSS) National RSV Epidemiology Dataset [June 2021 - March 2023] </a> 
-
-### Figure 1B
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Epidemiology-Data/Fig1-RSVNET-Hospitalization.csv.zip">Chicago Department of Public Health (CDPH) Weekly Aggregated Respiratory Virus Data </a> 
-
-### Figure 5
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/102423-RSVB-F-USA.MEME.csv"> RSV-B 1957 - 2023 Fusion MEME data </a> 
-
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/102423-RSVB-F-USA.MEME.csv"> RSV-B 1957 - 2023 Fusion FUBAR data </a> 
-
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/102423-RSVB-F-5yr.MEME.csv"> RSV-B 2018 - 2023 Fusion MEME data </a> 
-
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/102423-RSVB-F-5yr.FUBAR.csv"> RSV-B 2018 - 2023 Fusion FUBAR data </a> 
-
-
-### Supplementary Figure 5
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/080223-M2-1-MEME.csv"> RSV-B M2-1 MEME data </a> 
-
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/080223-M2-2-MEME.csv"> RSV-B M2-2 MEME data </a> 
-
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/07192022-G-MEME-RSVB.csv"> RSV-B Attachment Glycoprotein (G) MEME data</a> 
-
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Positive-Selection/080223-L-MEME.csv"> RSV-B Attachment Polymerase (L) MEME data </a> 
-
-# Phylogenetic Data Sets #
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/041223-RSVA-USA-NMH-metadata.csv"> USA RSV-A NCBI WGS Information </a> 
-
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/041223-RSVA-Global-NMH-metadata-location.csv"> Global RSV-A NCBI WGS Information </a> 
-
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/041223-RSVB-USA-metadata.csv"> USA RSV-B NCBI WGS Information </a> 
-
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/102223-RSVB-Global-NMH-metadata-dates%20(2).csv"> Global RSV-B NCBI WGS Information - Dates </a> 
-
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/111623-RSVF_G%202.zip"> Global RSV-B NCBI Fusion Information </a> 
-
-<a href="https://github.com/erg6437/RSV-Molecular-Epidemiology/blob/main/Sequence-Info/111623-RSVF_G%202.zip"> Global RSV-B NCBI Attachment Glycoprotein (G) Information </a> 
-
 # Phylogenetic Analysis
 #### Note: the timing to run the phylogenetic analysis is dependent on the number of sequences in the alignment. Run time has varied from 30 minutes to 3 days from alignment to ML phylogenetic construction
 
