@@ -10,7 +10,6 @@ Estefany Rios-Guzman, Ria Almohtadi, Seth H. Borrowman, Tien Doan, Charles R. Bo
 * [Significance and Findings](#Significance-and-Findings)
 * [Study Design](#Study-Design)  
 * [Dependencies](#Dependencies)
-* [Epidemiological Data Sets](#Epidemiological-Data-Sets)
 * [Phylogenetic Data Sets](#Phylogenetic-Data-Sets)
 * [Phylogenetic Analysis](#Phylogenetic-Analysis)
 
