@@ -1,0 +1,43 @@
+﻿days between vaccination,start,months_vax,Status,Subtype,Clade
+2,0,0,Hospitalized,A,A.D.5.1
+30,0,1,Not Hospitalized,A,A.D.5.3
+66,0,2,Not Hospitalized,A,A.D.1
+77,0,3,Not Hospitalized,A,A.D.1
+78,0,3,Not Hospitalized,A,A.D.5.1
+93,0,3,Not Hospitalized,A,A.D.1
+132,0,4,Not Hospitalized,A,A.D.5.1
+277,0,9,Not Hospitalized,A,A.D.5.1
+284,0,9,Not Hospitalized,B,B.D.E.1
+293,0,10,Not Hospitalized,A,A.D.5.1
+304,0,10,Not Hospitalized,A,A.D.5.1
+307,0,10,Hospitalized,A,A.D.5.1
+310,0,10,Hospitalized,A,A.D.5.1
+313,0,10,Not Hospitalized,A,A.D.1
+308,0,10,Not Hospitalized,B,B.D.E.1
+315,0,11,Not Hospitalized,A,A.D.1
+318,0,11,Not Hospitalized,A,A.D.3
+325,0,11,Not Hospitalized,A,A.D.1
+326,0,11,Not Hospitalized,A,A.D.3
+326,0,11,Hospitalized,A,A.D.3
+328,0,11,Not Hospitalized,B,B.D.E.1.2
+367,0,12,Not Hospitalized,A,A.D.5.1
+368,0,12,Not Hospitalized,A,A.D.5.1
+375,0,13,Not Hospitalized,A,A.D.5.1
+375,0,13,Hospitalized,A,A.D.3.3
+376,0,13,Not Hospitalized,A,A.D.5.3
+381,0,13,Not Hospitalized,A,A.D.5.1
+385,0,13,Hospitalized,A,A.D.5.3
+389,0,13,Not Hospitalized,A,A.D.1.6
+390,0,13,Not Hospitalized,A,A.D.5.3
+390,0,13,Not Hospitalized,A,A.D.5.1
+398,0,13,Hospitalized,A,A.D.5.3
+399,0,13,Hospitalized,A,A.D.3
+400,0,13,Not Hospitalized,A,A.D.5.1
+401,0,13,Not Hospitalized,A,A.D.1
+407,0,14,Not Hospitalized,A,A.D.1
+409,0,14,Hospitalized,A,A.D.1
+412,0,14,Not Hospitalized,A,A.D.1.6
+447,0,15,Hospitalized,A,A.D.5.2
+454,0,15,Not Hospitalized,B,B.D.E.1.2
+497,0,17,Not Hospitalized,A,A.D.3
+711,0,24,Not Hospitalized,A,A.D.5.1
